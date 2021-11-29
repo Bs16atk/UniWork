@@ -1,2 +1,1 @@
-# UniWork
-Some assignments from MSc Computer Science
+Miscellaneous assignments from MSc Computer Science that are not part of an existing repo
